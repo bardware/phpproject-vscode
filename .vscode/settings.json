@@ -1,0 +1,22 @@
+{
+	"php.executablePath": "C:\\Program Files\\php\\7_2-nts\\php.exe",
+	"php.suggest.basic": false,
+	"php.validate.executablePath": "C:\\Program Files\\php\\7_2-nts\\php.exe",
+	"php.validate.run": "onType",
+	"php-cs-fixer.onsave": true,
+	"php-cs-fixer.rules": "@PSR2",
+	"php-cs-fixer.executablePath": "php-cs-fixer.bat",
+	"php-cs-fixer.executablePathWindows": "php-cs-fixer.bat",
+	"editor.formatOnSave": true,
+	"[php]": {
+		"editor.formatOnSave": false
+	},
+	"[javascript]": {
+		"editor.formatOnSave": false
+	},
+	"eslint.enable": true,
+	"eslint.autoFixOnSave": true,
+	"eslint.alwaysShowStatus": true,
+	"prettier.disableLanguages": ["javascript"],
+	"sonarlint.ls.javaHome": "c:\\program files\\java"
+}

@@ -1,0 +1,16 @@
+{
+	"printWidth": 120,
+	"useTabs": true,
+	"tabWidth": 4,
+	"singleQuote": true,
+	"overrides": [
+		{
+			"files": [".prettierrc", ".eslintrc"],
+			"options": { "parser": "json" }
+		},
+		{
+			"files": ["*.scss"],
+			"options": { "singleQuote": false }
+		}
+	]
+}
